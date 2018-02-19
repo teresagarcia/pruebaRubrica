@@ -1,1 +1,14 @@
 Simulación de archivo.
+
+public class Simulacion{
+
+    public static void main (String arg []){
+    	int x;
+    	x = 77;
+    	if ((x % 2) == 0)
+    		System.out.println("El número es par.");
+    	else
+    		System.out.println("El número es impar.");
+    	
+    }
+}
